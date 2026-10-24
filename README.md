@@ -140,7 +140,7 @@ And if you ever ask me what I want from you in return for all this love… well,
 Because, honestly, loving you comes so naturally to me that sometimes I wonder whether my heart knew you long before I ever did. ❤️♾️
 
 
-      </p>
+   </p>
       <div class="signature">With affection, always ♡</div>
       <p style="font-size:.72rem;color:#9b7883;margin-top:12px">whenever and wherever I will love like my breath till my last day</p>
     </article>
@@ -246,11 +246,9 @@ And if life gives us that chance, I would love to turn all these little dreams i
 With LOL — Lots of Love, from a heart that genuinely wishes for your happiness, your peace, your success, and a beautiful future for you.
 Always my Angel, my Stressburster, my Luckycharm… 🩷🫂
 I like the idea of ordinary happiness: talking after a long day, laughing at something silly, sharing a meal, encouraging each other's dreams, and learning how to understand each other better.
-
-      <br><br>
+<br><br>
       I hope that whatever the future brings, it leaves room for honesty, patience, kindness, and the freedom for both of us to grow.
-
-      <br><br>
+<br><br>
       For now, this is simply a little gift—and a wish that today brings you something to smile about. ♡
     </div>
     <button class="btn" onclick="goTo('final')">One last little surprise ✨</button>
@@ -276,11 +274,9 @@ I can't promise to be perfect, but I promise to keep trying to be better for us.
 
 Thank you for being part of my story, my Luckycharm. And if you let me, I'd love to be part of your forever. 🩷🌷
 You deserve kindness on the hard days, laughter on the ordinary days, and people who make you feel respected and appreciated.
-
-      <br><br>
+<br><br>
       Thank you for being part of my story. I hope life brings you beautiful things, big and small.
-
-      <br><br>
+<br><br>
       <span style="font:2.3rem 'Dancing Script',cursive;color:#f1bdca">Made with care, just for you. ♡</span>
     </div>
     <div id="song-controls">
@@ -294,7 +290,6 @@ You deserve kindness on the hard days, laughter on the ordinary days, and people
 </main>
 
 <footer>A small handmade gift · Made with care ♡</footer>
-
 <!-- Optional: add a song file named "our-song.mp3" in the same folder. -->
 <audio id="ourSong" loop preload="none"><source src="our-song.mp3" type="audio/mpeg"></audio>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4nSwWiwtieiNmRAjy9fEXN?utm_source=generator&si=da544ffe60014865" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
