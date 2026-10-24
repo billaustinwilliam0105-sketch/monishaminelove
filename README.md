@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -125,19 +124,25 @@ footer{text-align:center;background:#1d1019;color:#cba8b4;padding:25px;font-size
     <article class="letter-paper hidden" id="letterPaper">
       <div class="salutation">My dear Monisha,</div>
       <p>
-Sometimes, words don't quite capture what a person means to us. Still, I wanted to try.
+I have an immense love for you. ❤️
+There is no logic when it comes to you. You just have this way of making my heart forget everything and choose you, every single time. 🫠❤️
+My love for you is eternal. ♾️❤️
+Sometimes, I wonder… how can I show you, how can I shower you with all the love I hold within my heart for you?
+If loving you is a choice, then trust me, my heart has already made its decision for a lifetime. ❤️‍🩹
+You know what the problem with you is? The more I get to know you, the more reasons you give me to fall for you… and the funny part is, I wasn't even looking for a way out. 😉❤️
+I wish you could borrow my eyes for a moment and see yourself the way I see you. Maybe then you'd understand why, even on my busiest days, a little thought of you is enough to make me smile like an idiot. 🫣❤️
+I don't just want to love you when you're happy, beautiful, and everything feels right. I want to be there when you're tired, when life gets difficult, when you don't have the words to explain what's wrong, and when all you need is someone who understands you without asking you to explain yourself a hundred times. 🫶🏻
+And honestly, how am I supposed to act normal around someone who can make my heart race with just one message and leave me smiling at my phone like I've completely lost my mind? 😂❤️‍🔥
+I may never find the perfect words to explain how much you mean to me, but I want my actions to tell you what my words sometimes cannot.
+I want to be someone you can trust, someone you can lean on, someone who celebrates your dreams as if they were his own, and someone whose love makes your life feel a little softer and your heart a little lighter.
+I don't promise that I can give you a perfect life, but I promise that I'll keep trying to make life more beautiful for you, in every way I can. ❤️
+And if you ever ask me what I want from you in return for all this love… well, just give me that smile of yours, let me steal a little of your time, and maybe let me be the reason behind a few of those butterflies in your stomach. 😉🦋❤️
+Because, honestly, loving you comes so naturally to me that sometimes I wonder whether my heart knew you long before I ever did. ❤️♾️
 
-You have a special place in my heart—not because every moment has been perfect, but because our story has mattered to me. We've shared memories, learned things, and grown through moments that weren't always easy.
-
-I care about your happiness, your dreams, and the person you're becoming. I hope you always feel free to be yourself around the people who love you, and that you never have to make yourself smaller to be understood.
-
-I don't want this little website to ask anything of you or put pressure on your heart. I simply wanted to make something thoughtful, something that might bring a smile to your face and remind you that you are appreciated.
-
-So here's a small pocket of warmth, made just for you. Open it on a happy day, a difficult day, or an ordinary day when you could use a little kindness.
 
       </p>
       <div class="signature">With affection, always ♡</div>
-      <p style="font-size:.72rem;color:#9b7883;margin-top:12px">Tip: edit this letter in the code so it sounds exactly like you.</p>
+      <p style="font-size:.72rem;color:#9b7883;margin-top:12px">whenever and wherever I will love like my breath till my last day</p>
     </article>
     <button class="btn dark" style="margin-top:28px" onclick="goTo('timeline')">Walk through our story ↓</button>
   </div>
@@ -145,16 +150,16 @@ So here's a small pocket of warmth, made just for you. Open it on a happy day, a
 
 <section id="timeline">
   <div class="section-inner">
-    <p class="section-kicker">02 · Little chapters</p>
+    <p class="section-kicker">02 · Memories</p>
     <h2>Our story, one moment at a time</h2>
-    <p class="lead">A relationship is made of tiny moments as much as big ones. Replace these sample chapters with memories that are truly yours.</p>
+    <p class="lead">A relationship is made of tiny moments as much as big ones.build day by with lots of love by forgiving everything after huge moments bein together everything LOVE IS NOT ABOUT FINDING NEW PEOPLE IT IS ABOUT CHOOSING SAME PERSON AGAIN AND AGAIN AFTER ALL FIGHTS.</p>
     <div class="timeline">
-      <div class="moment"><span class="date">Chapter 01 · Edit this</span><h3>The beginning</h3><p>Write about how you first met, the first conversation you remember, or the moment you started to feel close.</p></div>
-      <div class="moment"><span class="date">Chapter 02 · Edit this</span><h3>A memory that stays</h3><p>Add a funny moment, a late-night conversation, a shared joke, or a little detail that only the two of you understand.</p></div>
-      <div class="moment"><span class="date">Chapter 03 · Edit this</span><h3>What we learned</h3><p>Every chapter can teach us something. Write about patience, understanding, or how you hope to treat each other with care.</p></div>
-      <div class="moment"><span class="date">Chapter 04 · Still unfolding</span><h3>The next page</h3><p>No need to predict the whole future. Leave space for good conversations, new memories, and taking things one step at a time.</p></div>
+      <div class="moment"><span class="date">Melted in her eyes ·</span><h3>Awww Monishaaa...</h3><p>When I saw you for frist time i felt a connection that i couldn't explain. I had feel for before at that moment,still remember how it started like whole garden of memories filled by you everywhere.</p></div>
+      <div class="moment"><span class="date">Caught in her smile ·</span><h3>A memory that stays</h3><p>We had a good understanding from the start. It was like we were meant to be together, and every moment since has been a reminder of that.never seeked for perfection but looking forward for an better connection beyond all flaws</p></div>
+      <div class="moment"><span class="date">Kingdom of Love ·</span><h3>My Queen</h3><p>You are my frist priority of all time and i have been in that way for a long peroid of time when i have started loving you.What else you need"You are already Queen of my kingdom" being ready to crowned and treated as a queen by me nad my famiy too.</p></div>
+      <div class="moment"><span class="date">Towards Destiny ·</span><h3>The next page</h3><p>No need to predict the whole future. Leave space for good conversations, new memories, and taking things one step at a time.I won't leave at any cost whatever i will find a way to feel better becoz you have me;I won't make you feel low or bad for choosing me everyday i will be celebrating with My Queen , Queen of My Heart</p></div>
     </div>
-    <p class="note">Only include memories and dates that you both feel comfortable having on this page.</p>
+    <p class="note">I could make the whole world as a garden for if you want flowers same I can burn the entire world to save you in any circumstance.</p>
     <button class="btn dark" onclick="goTo('garden')">Visit the rose garden 🌹</button>
   </div>
 </section>
@@ -200,7 +205,47 @@ So here's a small pocket of warmth, made just for you. Open it on a happy day, a
     <h2>A dream, not a demand</h2>
     <p class="lead">The future doesn't need to be figured out all at once.</p>
     <div class="dream-card">
-      I like the idea of ordinary happiness: talking after a long day, laughing at something silly, sharing a meal, encouraging each other's dreams, and learning how to understand each other better.
+      To my Monishaaa… my Angel, my Stressburster, my Luckycharm… 🩷🥹
+Heyyy, my Angel… 💗
+There’s something my heart has been wanting to tell you, something that goes beyond ordinary words. No matter how much I try to explain it, I don't think I'll ever be able to put everything I feel for you into words. But today, I want to try.
+You are truly a gifted soul in my life. Even when everything around me felt like chaos, when life was full of pain, stress, and uncertainty, you were there like the brightest light in the darkest room. You brought light into my difficult days in ways you might not even realise. Sometimes, just having you in my life made everything feel a little less painful and a little more beautiful. ❤️‍🩹✨
+Seeing you happy, peaceful, successful, and proud of yourself is one of the things I genuinely wish for the most. Your dreams matter to me, your happiness matters to me, and your peace matters to me. Whenever life gets difficult for you, I want you to know that you don't have to face everything alone. I'll be there for you, my Angel, however you need me.
+I'll be in front of you when you need someone to stand up for you, beside you when you need someone to walk with you, and behind you when you need someone to support you quietly. Wherever you need me, that's where I'll try to be. 🫂💗
+Sometimes, when I look back at my life, I realise how many things have changed over the years. In 2023, I went through my major operation. In 2024, I received my job offer from Finulent. In 2025, I received my offer from Enphase. Those were important milestones in my life, moments I'll always remember.
+But somewhere between all those struggles, changes, and achievements, there was you.
+The days we met, the moments we shared, and the way you became part of my life are memories I'll always hold close to my heart. I can't explain it with logic, but your presence became one of those beautiful things that changed something within me.
+You became my Angel when I needed light, my Stressburster when I needed a smile, and my Luckycharm when I needed a little hope. 🩷✨
+Thank you for making my life more beautiful, for teaching me to become more responsible, and for helping me understand love in ways I didn't know before.
+And thank you for something even more precious… thank you for being part of the person I'm becoming.
+I know we haven't always had the easiest journey. We've had our fights, misunderstandings, difficult moments, and days when we struggled to understand each other. I'm not going to pretend that everything has always been perfect between us. But through everything, I've come to understand that a meaningful bond isn't about never having problems; it's about learning from them and becoming better people.
+You've forgiven my mistakes, corrected me when I was wrong, and helped me recognise the things I needed to change. I don't take that lightly, Angel. I know that trust, respect, and peace have to be built through our actions, not just our words. And I want to keep becoming someone who brings you comfort, understanding, happiness, and security.
+Sometimes I think about how rare it is for two people to know each other's imperfect sides and still find reasons to care. Out of billions of people in this world, our paths crossed, and we became part of each other's stories. That's something I'll always be grateful for.
+Like the sun and the moon, life has its bright days and its quiet, difficult nights. But our journey has taught me that love isn't just about romantic words, cute messages, or happy moments. It's also about understanding, patience, accountability, forgiveness, and learning how to treat each other better.
+One of the most meaningful things to me is seeing us learn to support each other and stand up for each other. That's the kind of bond I hope we continue building — one where we both feel safe, respected, understood, and genuinely happy. 💞
+Now, my Angel, can I tell you what my heart truly wishes for? 🥹❤️
+I don't just want to be someone who says, "I love you."
+I want to be someone whose actions make you feel loved.
+I want to celebrate your smallest achievements as if they're the biggest victories. I want to listen when you have a thousand thoughts running through your mind. I want to see you chase your dreams, become successful, and build a life that makes you proud of yourself.
+I want to be there for your silly moments, your happiest days, your stressful evenings, and even the days when you don't feel like explaining anything at all.
+I want to keep learning how to love you in the ways that make you feel loved.
+And if life gives us the chance to build a future together, I dream of something simple and beautiful — a peaceful little home, silly arguments over the smallest things, cooking together, laughing over nonsense, sharing our everyday stories, and ending our days knowing we have someone who genuinely cares. Maybe a little 2BHK filled with our laughter, our dreams, and our own kind of happiness. 🏡💗
+I dream of being the person you can share your victories with, the person you can be completely yourself around, and the person who never makes you feel that you have to face every difficulty alone.
+Not because I expect you to depend on me for everything, but because I want us to be two individuals who support each other, grow together, and make each other's lives a little more beautiful.
+I know love cannot be forced, and I never want my feelings to become a burden on your heart. I want whatever grows between us to be genuine, peaceful, and chosen by both of us. Your happiness matters to me, and so does what your heart truly feels.
+But if you ask me what my heart wishes for…
+It wishes for more beautiful memories with you. More laughter. More understanding. More chances to make you smile. More moments where we choose patience over anger and understanding over assumptions. And, if someday your heart feels the same, the beautiful privilege of calling you my person for life. 🩷🥹
+Monishaaa, my Angel, my Stressburster, my Luckycharm…
+I don't know exactly what tomorrow holds for us, but I know what I wish to bring into it: a softer heart, a better version of myself, more patience, more understanding, and a love that feels like peace rather than pressure.
+I want us to look back at our journey someday and realise that even the difficult chapters taught us how to build something healthier, stronger, and more beautiful.
+I don't expect every day to be perfect. I don't expect us to agree on everything. I just hope that, if we get the chance to write our future together, we can do it with honesty, respect, care, and the willingness to understand each other even when things aren't easy.
+And if someday you look at me and ask, "Why me?"
+I'll probably smile and say…
+"I don't know how to explain it, Monisha. My heart just found something in you that it never wanted to treat as ordinary. You became someone whose happiness matters to me, whose smile can make my day, and whose presence has left a beautiful mark on my life." 🥹💗
+Maybe I can't promise you a life without difficulties, but I can promise to keep working on myself, to respect your feelings, to celebrate your growth, and to be honest about mine. I want my love to be something you can feel through the way I treat you, not just something you read in a message.
+And if life gives us that chance, I would love to turn all these little dreams into our reality — one day, one memory, and one step at a time. 💌🌹
+With LOL — Lots of Love, from a heart that genuinely wishes for your happiness, your peace, your success, and a beautiful future for you.
+Always my Angel, my Stressburster, my Luckycharm… 🩷🫂
+I like the idea of ordinary happiness: talking after a long day, laughing at something silly, sharing a meal, encouraging each other's dreams, and learning how to understand each other better.
 
       <br><br>
       I hope that whatever the future brings, it leaves room for honesty, patience, kindness, and the freedom for both of us to grow.
@@ -219,7 +264,18 @@ So here's a small pocket of warmth, made just for you. Open it on a happy day, a
     <h2>One last thing, Monisha</h2>
     <p class="lead">If this little corner of the internet made you smile, then it has done exactly what I hoped.</p>
     <div class="final-note" id="finalNote">
-      You deserve kindness on the hard days, laughter on the ordinary days, and people who make you feel respected and appreciated.
+      Monishaaa, my Angel… 🥹❤️
+
+You deserve kindness on your hardest days, laughter on your ordinary days, and someone who makes you feel loved, respected, and appreciated in the little things.
+
+And if you choose me, I want to be that person for you. I want to make you smile when you're stressed, celebrate your little achievements, listen to your endless stories, and stand beside you through every high and low. Even during our fights, I want us to learn, understand each other, and choose kindness over ego.
+
+I can't promise to be perfect, but I promise to keep trying to be better for us. I want to be your safe place, your biggest supporter, and the person you can be yourself with, without pretending or hiding your feelings.
+
+**I don't know what the future holds, but if I could choose, I'd love to make a beautiful little life with you, filled with silly fights, endless laughter, random hugs, and lots of love.** 🫂💗
+
+Thank you for being part of my story, my Luckycharm. And if you let me, I'd love to be part of your forever. 🩷🌷
+You deserve kindness on the hard days, laughter on the ordinary days, and people who make you feel respected and appreciated.
 
       <br><br>
       Thank you for being part of my story. I hope life brings you beautiful things, big and small.
@@ -232,7 +288,7 @@ So here's a small pocket of warmth, made just for you. Open it on a happy day, a
       <button class="btn ghost" onclick="finale()">A little shower of love ✨</button>
     </div>
     <p id="music-status">Add your own licensed audio file to enable the song button.</p>
-    <div id="finaleMessage" class="hidden" style="font:2rem 'Dancing Script',cursive;margin-top:22px">A thousand virtual hugs for you 🤗♡</div>
+    <div id="finaleMessage" class="hidden" style="font:2rem 'Dancing Script',cursive;margin-top:22px">If i could Hug you now it might be a endless cuddle but for now A thousand virtual hugs for you 🤗♡</div>
   </div>
 </section>
 </main>
@@ -241,15 +297,15 @@ So here's a small pocket of warmth, made just for you. Open it on a happy day, a
 
 <!-- Optional: add a song file named "our-song.mp3" in the same folder. -->
 <audio id="ourSong" loop preload="none"><source src="our-song.mp3" type="audio/mpeg"></audio>
-
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4nSwWiwtieiNmRAjy9fEXN?utm_source=generator&si=da544ffe60014865" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <script>
 const roseNotes = [
-  "I hope today gives you a reason to smile, even if it's a tiny one. 🌹",
-  "Keep being curious, brave, and wonderfully yourself. You have so much ahead of you. 🌷",
-  "I hope we never run out of little things to laugh about. 😂",
-  "You deserve to be heard, understood, and treated with kindness—always. ♡",
-  "May you get closer to the dreams you're working so hard for. ✨",
-  "This rose has one job: to remind you that someone wanted to make your day a little sweeter. 💗"
+  "I hope today gives you a reason to smile, even if it's a tiny one. 🌹  Will Love you as always more and more being with you makes me feel am completely fulfilled, I can just hold you in my arms like my child as you are",
+  "I will be there in all your moments,of you life instances. Being a successful partner in life, I will always support you and stand by your side. Keep being curious, brave, and wonderfully yourself. You have so much ahead of you. 🌷",
+  "I hope we never run out of little things to laugh about. 😂 Being responsible for your happiness is something I take seriously. I won't let you inner child die, I will nurture it and protect it with all my heart.",
+  "You deserve to be heard, understood, and treated with kindness—always. ♡ I will always be there to listen, to understand, and to love you for who you are. 🌸 I will be your constant companion through every season of life.",
+  "May you get closer to the dreams you're working so hard for. ✨ I will always be your biggest cheerleader, supporting you in every step of your journey. 🌹 I will celebrate your victories and help you through the challenges.",
+  "This rose has one job: to remind you that someone wanted to make your day a little sweeter. 💗 being my loavable person i will always be there to make you feel loved, cherished, and appreciated. 🌺 I will always be your safe haven, your confidant, and your biggest fan."
 ];
 
 function goTo(id){
